@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+terrain_model.pt
+
+# Node.js
+frontend/node_modules/
+frontend/build/
+frontend/.cache/
+*.log
+
+# OS and IDE files
+.DS_Store
+.vscode/
